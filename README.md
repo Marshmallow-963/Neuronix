@@ -1,6 +1,6 @@
-# 🧠 Neurolab
+# 🧠 Neuronix
 
-**Neurolab** is software developed for educational purposes, focused on simulating computational neuroscience concepts.
+**Neuronix** is software developed for educational purposes, focused on simulating computational neuroscience concepts.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This project **is not a program that you install on your system** (Linux, Windows or macOS).
 
-The executable file ('neurolab') is saved **inside `bin/` folder** within the project's own directory. You will not find it in `/usr/bin/` or in "Program Files".
+The executable file ('neuronix') is saved **inside `bin/` folder** within the project's own directory. You will not find it in `/usr/bin/` or in "Program Files".
 
 ---
 
@@ -39,7 +39,7 @@ To use the program, you must first compile it and then run it from the project's
 
 ## 🛠️ Implementation Notes
 
-Neurolab is built in **C**, prioritizing performance and manual memory management to simulate complex neural networks efficiently. The architecture follows a modular design, separating the network topology (Graph) from the biological logic (Models).
+Neuronix is built in **C**, prioritizing performance and manual memory management to simulate complex neural networks efficiently. The architecture follows a modular design, separating the network topology (Graph) from the biological logic (Models).
 
 ### 1. Network Architecture (Graph Structure)
 The simulation core is structured as a **Directed Graph**:
