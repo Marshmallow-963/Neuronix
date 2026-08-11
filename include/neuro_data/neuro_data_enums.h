@@ -1,0 +1,9 @@
+#ifndef NEURO_DATA_ENUMS_H
+#define NEURO_DATA_ENUMS_H
+
+typedef enum {
+    TRACE_MODEL_IZHIKEVICH = 0,
+    TRACE_MODEL_HODGKIN_HUXLEY
+} TraceModelType;
+
+#endif // NEURO_DATA_ENUMS_H
